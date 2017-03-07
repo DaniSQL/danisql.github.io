@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: DaniSQL
+name: Your Name
 
 # Short bio or description (displayed in the header)
-description: SQL Server DBA
+description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar: https://raw.githubusercontent.com/danisql/danisql.github.io/master/images/DaniSQL.png
-avatar: https://avatars0.githubusercontent.com/u/3421153?v=3&s=40
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
 #
 # Flags below are optional
 #
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/DaniSQL
+  github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: DaniSQL
+  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -39,9 +39,9 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. http://danisql.github.io or http://www.danisql.com)
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:http://www.danisql.com
+url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
