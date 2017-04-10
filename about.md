@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-I am a SQL Server DBA living in Washington D.C. Metro area. 
+My name is Daniel. I am a SQL Server DBA living in Washington D.C. Metro area. 
 
 ### More Information
 
-You can find on twitter at @danisql.
+You can find me on twitter at @danisql.
 
 ### Contact me
 
