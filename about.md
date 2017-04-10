@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Some information about me!
+I am a SQL Server DBA living in Washington D.C. Metro area. 
 
 ### More Information
 
-You can find me elsewhere in the web at ...
+You can find on twitter at @danisql.
 
 ### Contact me
 
